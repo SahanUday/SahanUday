@@ -2,75 +2,101 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=2190e4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi,+I'm+Sahan+Udayanga!;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />  
 </p>
 
-🌟 **A [Your Title/Role] passionate about [Your Interest Areas]**
 
-📍 Based in [Your Location] | 🌱 Currently learning [Your Learning Goals]
+<h2 align="left">A Full-Stack Developer & AI Enthusiast from Sri Lanka</h2>
 
----
-
-## 📌 About Me
-
-- 💻 I’m currently working on **[Project Name or Type]**
-- 🚀 I’m looking to collaborate on **[Your Collaboration Goals]**
-- 🎯 Fun Fact: **[Add something unique about yourself]**
+🔭 I’m currently learning **Cloud-Native Development, Deep Learning & DevOps**  
+👯 I’m looking to collaborate on **Open-Source AI and Web Development Projects**  
+⚡ **Fun Fact:** I once built a chatbot that roasts my code better than my friends! 😄💻
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools 💻🛠️
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## Projects ⚙️🧑‍💻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical)
+### 💠 Web & Software Development
+1. **[TaskMaster](https://github.com/SahanUdayanga/TaskMaster)** - A real-time collaborative task management app built with React, Node.js, and MongoDB.
+2. **[Portfolio 2.0](https://github.com/SahanUdayanga/Portfolio-2.0)** - My personal portfolio website built with Next.js and Tailwind CSS.
+3. **[E-Commerce Platform](https://github.com/SahanUdayanga/ECommerce-Platform)** - A full-stack e-commerce app with payment integration using MERN stack.
 
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+### 💠 Machine Learning & AI
+1. **[AI-Image-Classifier](https://github.com/SahanUdayanga/AI-Image-Classifier)** - A deep learning model for image classification using PyTorch.
+2. **[Sentiment Analyzer](https://github.com/SahanUdayanga/Sentiment-Analyzer)** - A sentiment analysis tool for social media comments using TensorFlow.
+3. **[ChatBot Pro](https://github.com/SahanUdayanga/ChatBot-Pro)** - An AI-powered chatbot for customer support using NLP and Python.
 
 ---
 
-## 🎨 Custom Illustration
+## Module Repositories 📖
+1. **[Web Development](https://github.com/SahanUdayanga/Web-Development)** - Projects and exercises in React, Node.js, and Next.js.
+2. **[Machine Learning](https://github.com/SahanUdayanga/Machine-Learning)** - ML models and experiments with PyTorch and TensorFlow.
+3. **[Cloud Computing](https://github.com/SahanUdayanga/Cloud-Computing)** - AWS and Docker-based projects for scalable deployments.
+
+---
+
+## Connect with Me 🤝
+
+<div align="left">
+  <a href="mailto:sahanudayanga@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/sahanudayanga" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/sahanudayanga" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://sahanudayanga.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="55" height="40" alt="portfolio logo" />
+  </a>
+</div>
+
+---
+
+## GitHub Stats 📊
+
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/random-id" alt="Illustration" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanUday&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" style="width: 500px; height: 250px; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanUday&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanUday&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-Here are some of my highlighted repositories:
-- [Project 1](https://github.com/YourUsername/Project1): **[Brief Description]**
-- [Project 2](https://github.com/YourUsername/Project2): **[Brief Description]**
-- [Project 3](https://github.com/YourUsername/Project3): **[Brief Description]**
-
----
-
-## 🌱 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=react-dark)
-
----
-
-## 🏆 Achievements
-
-- 🌟 **Open Source Contributions**: Contributed to [Repository Name/Project Name]
-- 🏅 **Certifications**: [Certification Name]
-- 🥇 **Top Projects**: [Project Name]
-
----
-
-**✨ Thank you for visiting my profile!**
+<p align="center">
+  <b>✨ Thanks for visiting my profile! Let's code the future together! ✨</b>
+</p>
