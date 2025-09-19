@@ -23,7 +23,7 @@ Passionate about integrating **AI with real-world systems (IoT, Web, Edge AI, Cl
   <a href="https://medium.com/@sahanudayangaof" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="55" height="40" alt="medium logo"  />
   </a>
-  <a>
+  <a href="https://discord.com/users/1147055083016691752" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
   </a>
 </div>
